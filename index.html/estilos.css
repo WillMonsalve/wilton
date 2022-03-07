@@ -10,3 +10,12 @@ h1{
     background-color: rgb(122, 230, 21);
     color: #000000;
 }
+
+article{
+    text-align: initial;
+}
+
+footer{
+    text-align: end;
+    color: #41017c;
+}
